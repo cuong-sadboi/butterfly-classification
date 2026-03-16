@@ -1,0 +1,9 @@
+torch
+torchvision
+timm
+pillow
+matplotlib
+scikit-learn
+gradio
+grad-cam
+ipykernel
